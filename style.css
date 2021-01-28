@@ -24,7 +24,7 @@ header a:hover {
   color: black;
 }
 
-header button {
+/* header button {
   background-color: #52796F;
 }
 header button:hover {
@@ -36,15 +36,42 @@ header button a{
 }
 header button a:hover{
   color:white;
-}
+} */
 
 nav {
   color: #52796F;
 }
 
+/* Temp */
+.landing button {
+  background-color: #52796F;
+}
+.landing button:hover {
+  background-color: #6D9C90;
+}
+.landing button a{
+  color: white;
+  font-weight:600;
+}
+.landing button a:hover{
+  color:white;
+}
+.linkedin {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding-top: 0.6rem;
+  padding-right: 0.6rem;
+  color: #52796F;
+}
+.linkedin:hover{
+  color: #6D9C90;
+  cursor: pointer;
+}
+
 .typewriter h1 {
   color: #84A98C;
-  font-size: 3.5em;
+  font-size: 4em;
   font-family: monospace;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid #354F52; /* The typwriter cursor */
@@ -68,9 +95,6 @@ nav {
   50% { border-color: #354F52 }
 }
 
-/* .landing {
-  height: 100%;
-} */
 
 .subhead {
   color: #354F52;
