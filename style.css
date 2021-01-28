@@ -6,7 +6,7 @@ a:hover {
   cursor: pointer;
 }
 
-header{
+/* header{
   position: sticky;
   top: 0;
   font-family: 'Lato', sans-serif;
@@ -22,7 +22,7 @@ header a:hover {
 
 .hlink {
   color: black;
-}
+} */
 
 /* header button {
   background-color: #52796F;
@@ -38,9 +38,9 @@ header button a:hover{
   color:white;
 } */
 
-nav {
+/* nav {
   color: #52796F;
-}
+} */
 
 /* Temp */
 .landing button {
